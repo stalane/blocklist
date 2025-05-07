@@ -1,6 +1,7 @@
 <p align="center">
   <img src="header.png" alt="Project Header" width="800"/>
 </p>
+
 # Stalane Analytics Blocklists
 
 ## Ads & Trackers Blocklist
