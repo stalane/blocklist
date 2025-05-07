@@ -2,8 +2,6 @@
   <img src="header.png" alt="Project Header" width="800"/>
 </p>
 
-# Blocklists
-
 ## Ads & Trackers Blocklist
 A comprehensive blocklist to block ads & trackers in all countries. This is the recommended starter blocklist.
 - **Entries**: 164,507
