@@ -2,7 +2,7 @@
   <img src="header.png" alt="Project Header" width="800"/>
 </p>
 
-# Stalane Analytics Blocklists
+# Blocklists
 
 ## Ads & Trackers Blocklist
 A comprehensive blocklist to block ads & trackers in all countries. This is the recommended starter blocklist.
