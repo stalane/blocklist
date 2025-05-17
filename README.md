@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Project Header" width="800"/>
+  <img src="header.png" alt="Stalane Analytics" width="800"/>
 </p>
 
 ## Ads & Trackers Blocklist
